@@ -1,0 +1,11 @@
+{
+  "token": "Bot Tokeni",
+  "prefix": "Prefix",
+  "owners": ["OwnerId"],
+  "statuses": [
+    "Durum 1",
+    "Durum 2",
+    "Durum 3"
+  ],
+  "timers": 10
+}
